@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction
+The heart disease dataset comprises medical information used to predict the likelihood of heart disease. Algorithms like GBM, KNN, SVM, and logistic regression are applied to train models. Each algorithm processes features like age, gender, lifestyle habits, and medical indicators to predict the presence of heart disease. These models aid in early diagnosis and intervention, potentially improving patient outcomes.
